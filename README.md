@@ -16,7 +16,7 @@ compé tences techniques diverses.
 
 ## Mes statistiques GitHub 📊
 
-![Les statistiques GitHub de votre_nom_utilisateur](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=djoudj-dev](https://github.com/djoudj-dev/github-readme-stats)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
