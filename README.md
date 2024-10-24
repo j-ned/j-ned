@@ -16,9 +16,10 @@ compé tences techniques diverses.
 
 ## Mes statistiques GitHub 📊
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=djoudj-dev](https://github.com/djoudj-dev/github-readme-stats)
+![Les statistiques GitHub de votre_nom_utilisateur](https://github-readme-stats.vercel.app/api?username=djoudj-dev&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=djoudj-dev&layout=compact&theme=radical)
+
 
 ## Où me trouver 🌍
 
