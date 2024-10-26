@@ -1,11 +1,11 @@
 # Salut, je suis Djoudj 👋
 
-Dé veloppeur web passioné , je suis à la
+Développeur web passioné , je suis à la
 recherche d’une opportunité dans le
 domaine de la confection de site web
-ou d’application. Ayant dé jà travailler
+ou d’application. Ayant déjà travailler
 sur de petits projets, je suis doté e de
-compé tences techniques diverses.
+compétences techniques diverses.
 
 ## Technologies et outils 🛠️
 
