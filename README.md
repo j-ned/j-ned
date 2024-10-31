@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, Je suis Djoudj</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="djoudj-dev" /> </p>
-<h3 align="center">Mes réseaux:</h3>
-<p align="center">
+<h1 align="center">Hi 👋, Je suis Djoudj - <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nedellec-julien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nedellec-julien/" height="30" width="40" /></a>
-</p>
+</p></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="djoudj-dev" /> </p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djoudj-dev&show_icons=true&locale=en&layout=compact" alt="djoudj-dev" />
 <h3 align="center">Passionné par le développement web, je crée des sites et des applis avec une bonne dose de technique et de créativité !</h3>
 <h3 align="center">Languages and Tools:</h3>
