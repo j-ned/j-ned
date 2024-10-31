@@ -1,11 +1,6 @@
 # Salut, je suis Djoudj 👋
 
-Développeur web passioné , je suis à la
-recherche d’une opportunité dans le
-domaine de la confection de site web
-ou d’application. Ayant déjà travailler
-sur de petits projets, je suis doté de
-compétences techniques diverses.
+Développeur web passionné, je crée des sites et des applis avec une bonne dose de technique et de créativité ! Avec déjà quelques projets à mon actif, j’aime explorer et mélanger les outils pour construire des expériences sympas et efficaces pour les utilisateurs.
 
 ## Technologies et outils 🛠️
 
