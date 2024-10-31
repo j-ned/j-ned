@@ -10,7 +10,6 @@
 
 <table>
   <tr>
-    <!-- Bloc Frontend -->
     <td align="center" valign="top" width="50%">
       <h4>Frontend</h4>
       <p align="center">
@@ -37,9 +36,12 @@
         </a>
       </p>
     </td>
-    
-    <!-- Bloc Backend -->
-    <td align="center" valign="top" width="50%">
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" valign="top" width="50%">
       <h4>Backend</h4>
       <p align="center">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
