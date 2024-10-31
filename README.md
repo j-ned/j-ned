@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, Je suis Djoudj</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="djoudj-dev" /> | 📫 : **nedellec.julien.78@gmail.com**</p>
 <h3 align="center">Passionné par le développement web, je crée des sites et des applis avec une bonne dose de technique et de créativité !</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="djoudj-dev" /> </p>
-
-- 📫 : **nedellec.julien.78@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
