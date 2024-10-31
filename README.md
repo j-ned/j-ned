@@ -47,4 +47,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djoudj-dev&show_icons=true&locale=en" alt="djoudj-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djoudj-dev&" alt="djoudj-dev" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=djoudj-dev&" alt="djoudj-dev" /></p>
