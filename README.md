@@ -1,6 +1,7 @@
 # Salut, je suis Djoudj 👋
 
-Développeur web passionné, je crée des sites et des applis avec une bonne dose de technique et de créativité ! Avec déjà quelques projets à mon actif, j’aime explorer et mélanger les outils pour construire des expériences sympas et efficaces pour les utilisateurs.
+Développeur web passionné, je crée des sites et des applis avec une bonne dose de technique et de créativité ! 
+Avec déjà quelques projets à mon actif, j’aime explorer et mélanger les outils pour construire des expériences sympas et efficaces pour les utilisateurs.
 
 ## Technologies et outils 🛠️
 
