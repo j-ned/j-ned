@@ -32,12 +32,6 @@
     <td align="center" valign="top" width="25%">
       <h3>Frontend</h3>
       <p>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
-        </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/>
         </a>
