@@ -3,9 +3,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profil vu Djoudj" />
-  <a href="https://gitquest.dev/player/djoudj-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitQuest%20Winner-3rd%20Place-cd7f32" alt="GitQuest Winner" />
-  </a>
+  
+<a href="https://gitquest.dev/player/djoudj-dev" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+</a>
 </p>
 
 <h3 align="center">Passionné par le développement web, je crée des sites et des applis avec une bonne dose de technique et de créativité !</h3>
