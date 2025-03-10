@@ -1,6 +1,5 @@
-<h1 align="center">💥 Bienvenue sur ma page 💥</h1>
-<h3 align="center">Je suis Nédellec Julien alias djoudj</h3>
-<h3 align="center">Développeur d'application web et mobile</h3>
+<h1 align="center">💥 Je suis Nédellec Julien, alias <strong>djoudj</strong> 💥</h1>
+<h4 align="center">💻 Développeur d'applications web et mobile 💻</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profil vu Djoudj" />
@@ -9,11 +8,13 @@
   </a>
 </p>
 
-<h4 align="center">Je crée des sites et des applis avec une bonne dose de technique et de créativité !</h4>
+---
+
+<h4 align="center">🌟 Je crée des sites et des applis avec une bonne dose de technique et de créativité ! 🌟</h4>
 
 ---
 
-<h3 align="center">Stacks Préférées</h3>
+<h2 align="center">🔧 Stacks Préférées</h2>
 <p align="center">  
   <a href="https://angular.io" target="_blank" rel="noopener noreferrer"> 
     <img src="https://github.com/angular/angular/blob/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" width="80" height="80"/> 
@@ -28,7 +29,7 @@
 
 ---
 
-<h3 align="center">Technologies</h3>
+<h2 align="center">🛠️ Technologies</h2>
 
 <table align="center">
   <tr>
@@ -93,7 +94,7 @@
 
 ---
 
-<h3 align="center">Statistiques GitHub</h3>
+<h2 align="center">📊 Statistiques GitHub</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -108,3 +109,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">📫 Contactez-moi</h2>
+<p align="center">
+  <a href="mailto:nedellec.julien.78@gmail.com">Envoyez-moi un email</a> | 
+  <a href="https://www.linkedin.com/in/nedellec-julien/">LinkedIn</a> | 
+  <a href="https://x.com/Djoudj_Dev">X</a>
+</p>
