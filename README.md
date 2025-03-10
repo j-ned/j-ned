@@ -1,17 +1,19 @@
-<h1 align="center">Salut à toi 👋, Je suis NÉDELLEC Julien alias djoudj</h1>
-<h3 align="center">Je suis développeur d'application web et mobile</h3>
+<h1 align="center">💥 Bienvenue sur ma page 💥</h1>
+<h3 align="center">Je suis Nédellec Julien alias djoudj</h3>
+<h3 align="center">Développeur d'application web et mobile</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profil vu Djoudj" />
-  
-<a href="https://gitquest.dev/player/djoudj-dev" target="_blank">
-<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
-</a>
+  <a href="https://gitquest.dev/player/djoudj-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700" alt="GitQuest Winner">
+  </a>
 </p>
 
-<h3 align="center">Je crée des sites et des applis avec une bonne dose de technique et de créativité !</h3>
+<h4 align="center">Je crée des sites et des applis avec une bonne dose de technique et de créativité !</h4>
 
-<h3 align="center">Favorite Stacks</h3>
+---
+
+<h3 align="center">Stacks Préférées</h3>
 <p align="center">  
   <a href="https://angular.io" target="_blank" rel="noopener noreferrer"> 
     <img src="https://github.com/angular/angular/blob/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" width="80" height="80"/> 
@@ -24,13 +26,14 @@
   </a> 
 </p>
 
+---
+
 <h3 align="center">Technologies</h3>
 
 <table align="center">
   <tr>
-    <!-- Frontend -->
     <td align="center" valign="top" width="25%">
-      <h3>Frontend</h3>
+      <h4>Frontend</h4>
       <p>
         <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -43,9 +46,8 @@
         </a>
       </p>
     </td>
-    <!-- Backend -->
     <td align="center" valign="top" width="25%">
-      <h3>Backend</h3>
+      <h4>Backend</h4>
       <p>
         <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
@@ -58,9 +60,8 @@
         </a>
       </p>
     </td>
-    <!-- Databases -->
     <td align="center" valign="top" width="25%">
-      <h3>BDD</h3>
+      <h4>BDD</h4>
       <p>
         <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
@@ -73,9 +74,8 @@
         </a>
       </p>
     </td>
-    <!-- Tools -->
     <td align="center" valign="top" width="25%">
-      <h3>Outils</h3>
+      <h4>Outils</h4>
       <p>
         <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40"/>
@@ -91,6 +91,9 @@
   </tr>
 </table>
 
+---
+
+<h3 align="center">Statistiques GitHub</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -105,4 +108,3 @@
     </td>
   </tr>
 </table>
-
