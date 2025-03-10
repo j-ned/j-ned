@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Je suis Djoudj</h1>
-<h3 align="center">Développeur Fullstack</h3>
+<h1 align="center">Salut à toi 👋, Je suis NÉDELLEC Julien alias djoudj</h1>
+<h3 align="center">Je suis développeur d'application web et mobile</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profil vu Djoudj" />
@@ -9,7 +9,7 @@
 </a>
 </p>
 
-<h3 align="center">Passionné par le développement web, je crée des sites et des applis avec une bonne dose de technique et de créativité !</h3>
+<h3 align="center">Je crée des sites et des applis avec une bonne dose de technique et de créativité !</h3>
 
 <h3 align="center">Favorite Stacks</h3>
 <p align="center">  
