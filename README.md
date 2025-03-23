@@ -1,5 +1,5 @@
 <h1 align="center">💥 Je suis Nédellec Julien, alias <strong>djoudj</strong> 💥</h1>
-<h4 align="center">💻 Développeur d'applications web et mobile 💻</h4>
+<h4 align="center">💻 Développeur d'applications web et web mobile 💻</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profil vu Djoudj" />
