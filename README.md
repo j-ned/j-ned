@@ -1,68 +1,29 @@
-# Je suis Nédellec Julien (djoudj)
+# Je suis Nédellec Julien,
 
 ## Développeur d'applications web et web mobile
 
-![Profil vu Djoudj](https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=flat)
-[![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700)](https://gitquest.dev/player/djoudj-dev)
-[![Repos Badge](https://badges.pufler.dev/repos/djoudj-dev)](https://badges.pufler.dev)
+![Profil vu Djoudj](https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)](https://gitquest.dev/player/djoudj-dev)
+[![Repos Badge](https://badges.pufler.dev/repos/djoudj-dev?style=for-the-badge)](https://badges.pufler.dev)
 
-> Je crée des sites et des applications avec une bonne dose de technique et de créativité !
+> Développeur spécialisé en Angular, j’interviens sur toute la chaîne applicative, du front-end réactif au back-end structuré. Mon approche repose sur la performance, la scalabilité et la maintenabilité pour concevoir des applications robustes et adaptées aux besoins métier.
 
 ---
 
-## 🛠️ Stack & Outils
+## 🛠️ Stacks & Outils
 
-### Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-### Backend
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### Outils & Qualité
-![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
-![EditorConfig](https://img.shields.io/badge/-EditorConfig-000000?logo=editorconfig&logoColor=white)
-
-### CI/CD & DevOps
-![Coolify](https://img.shields.io/badge/-Coolify-161B22?logo=coolify&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-### Package Managers & Version Control
-![pnpm](https://img.shields.io/badge/-pnpm-6e5b3a?logo=pnpm&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=maven&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-### IDE & Design
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![draw.io](https://img.shields.io/badge/-Draw.io-F08705?logo=diagramsdotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)![Coolify](https://img.shields.io/badge/Coolify-161B22?style=for-the-badge&logo=coolify&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![pnpm](https://img.shields.io/badge/pnpm-6e5b3a?style=for-the-badge&logo=pnpm&logoColor=white)![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ---
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=djoudj-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=djoudj-dev&theme=default&style=for-the-badge)](https://git.io/streak-stats)
+![djoudj-dev's Stats](https://github-readme-stats.vercel.app/api?username=djoudj-dev&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
-## 📬 Contacte-moi
+## 📬 Contactez-moi
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nedellec-julien/)
-[![Discord](https://img.shields.io/badge/Discord-nedellec__julien-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nedellec_julien)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nedellec-julien/)
+[![Discord](https://img.shields.io/badge/Discord-nedellec__julien-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nedellec_julien)
