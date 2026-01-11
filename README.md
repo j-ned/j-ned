@@ -21,8 +21,8 @@
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=djoudj-dev&theme=default&style=for-the-badge)](https://git.io/streak-stats)
-![djoudj-dev's Stats](https://github-readme-stats.vercel.app/api?username=djoudj-dev&theme=default&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=djoudj-dev)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djoudj-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
