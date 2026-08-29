@@ -2,7 +2,7 @@
 
 ## Développeur d'applications web et web mobile
 
-![Profil vu Djoudj](https://komarev.com/ghpvc/?username=djoudj-dev&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Profil vu J-Ned](https://komarev.com/ghpvc/?username=j-ned&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)](https://gitquest.dev/player/djoudj-dev)
 
 > Développeur spécialisé en Angular, j’interviens sur toute la chaîne applicative, du front-end réactif au back-end structuré. Mon approche repose sur la performance, la scalabilité et la maintenabilité pour concevoir des applications robustes et adaptées aux besoins métier.
@@ -21,7 +21,7 @@
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=djoudj-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=j-ned)](https://git.io/streak-stats)
 
 ---
 
