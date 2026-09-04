@@ -4,7 +4,7 @@
 
 ### Développeur Full Stack Angular, NestJS, TypeScript - Île-de-France
 
-![Profil vu J-Ned](https://komarev.com/ghpvc/?username=djoudj&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Profil vu J-Ned](https://komarev.com/ghpvc/?username=j-ned&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)](https://gitquest.dev/player/djoudj-dev)
 
 *20 ans dans l'industrie m'ont appris ce qu'est vraiment la rigueur. Aujourd'hui, je l'applique au code.*
