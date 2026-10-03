@@ -1,15 +1,19 @@
 <div align="center">
 
-# Nédellec Julien
+# Julien Nédellec
 
-### Développeur Full Stack Angular, NestJS, TypeScript - Île-de-France
+### Développeur Full-Stack Angular · NestJS · TypeScript - Île-de-France
+
+**Je livre des applications Angular et NestJS jusqu'en production.**
+
+Disponible en freelance ([Malt](https://www.malt.fr/profile/juliennedellec)) · ouvert au CDI en Île-de-France
 
 ![Profil vu J-Ned](https://komarev.com/ghpvc/?username=j-ned&label=Profile%20views&color=0e75b6&style=for-the-badge)
-[![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)](https://gitquest.dev/player/djoudj-dev)
+![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)
 
-*20 ans dans l'industrie m'ont appris ce qu'est vraiment la rigueur. Aujourd'hui, je l'applique au code.*
+*20 ans d'industrie, aujourd'hui tourneur CN en aéronautique de haute précision : je livre du logiciel avec la même exigence qu'une pièce critique.*
 
-[**Portfolio**](https://www.nedellec-julien.fr) | [**LinkedIn**](https://www.linkedin.com/in/julien-nedellec/) | [**Contact**](mailto:contact@nedellec-julien.fr)
+[**Portfolio**](https://www.nedellec-julien.fr) | [**Malt**](https://www.malt.fr/profile/juliennedellec) | [**LinkedIn**](https://www.linkedin.com/in/julien-nedellec/) | [**Contact**](mailto:contact@nedellec-julien.fr)
 
 </div>
 
@@ -17,7 +21,7 @@
 
 ## Qui je suis
 
-Je ne suis pas venu au développement web par hasard. Après 20 ans en métallurgie, j'ai vu les outils numériques transformer un secteur entier, et j'ai compris que je pouvais avoir plus d'impact en les créant plutôt qu'en les utilisant.
+Je ne suis pas venu au développement web par hasard. En 20 ans d'industrie, de la métallurgie à l'usinage aéronautique de haute précision où je suis aujourd'hui tourneur CN, j'ai vu les outils numériques transformer un secteur entier, et j'ai compris que je pouvais avoir plus d'impact en les créant plutôt qu'en les utilisant.
 
 Formé dans un environnement où l'erreur coûte cher, j'applique cette exigence à chaque ligne de code : pensée pour durer, comprise de bout en bout, de la requête SQL au déploiement en production. Je ne me contente jamais de faire fonctionner, je comprends pourquoi ça fonctionne.
 
@@ -32,7 +36,10 @@ Cette double expérience me donne une vision systémique rare. Je ne code pas de
 
 ## Ce que je cherche
 
-Un **CDI en Île-de-France**, dans une équipe produit **fintech, greentech ou industrial tech**. Un environnement où la tech sert un impact positif, qui valorise la qualité technique et l'apprentissage continu.
+**Disponible en freelance** et **ouvert au CDI en Île-de-France**.
+
+- **Freelance** : création d'applications Angular + NestJS, migration Angular (Signals, zoneless), audit et renfort ponctuel. En télétravail ou sur site dans l'Ouest parisien. → [Mon profil Malt](https://www.malt.fr/profile/juliennedellec)
+- **CDI** : une équipe produit **fintech, greentech ou industrial tech**, où la tech sert un impact positif et où la qualité technique compte. → [Écrivez-moi](mailto:contact@nedellec-julien.fr)
 
 ---
 
@@ -52,14 +59,26 @@ Un **CDI en Île-de-France**, dans une équipe produit **fintech, greentech ou i
 
 ## Projets phares
 
-### [Candidash](https://github.com/j-ned/ng-candidash-app)
-**Tableau de bord personnel pour piloter sa recherche d'emploi.** Angular 21 (Signals, Clean Architecture), API NestJS 11 (JWT + 2FA TOTP, relances CRON, Prisma 7, PostgreSQL), extension Chrome d'extraction. Full-stack et extension, du frontend au backend.
+### [DashFlow](https://github.com/j-ned/ng-dashflow-app)
+**Budget familial et suivi médical du foyer, chiffrés de bout en bout côté client.** Angular 22 zoneless (Signals), API NestJS 11, PostgreSQL + Drizzle, AES-256-GCM + PBKDF2 : le serveur ne voit jamais les données en clair.
 
-[Démo live](https://candidash.j-ned.dev) | [API](https://api.candidash.j-ned.dev/api/docs) | [Frontend](https://github.com/j-ned/ng-candidash-app) | [Backend](https://github.com/j-ned/nest-candidash-app) | [Extension](https://github.com/j-ned/chrome-candidash-extension)
+[Démo live](https://dashflow.nedellec-julien.fr) | [Frontend](https://github.com/j-ned/ng-dashflow-app) | [Backend](https://github.com/j-ned/nest-dashflow-app)
+
+![Angular](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### [Candidash](https://github.com/j-ned/ng-candidash-app)
+**Tableau de bord personnel pour piloter sa recherche d'emploi.** Angular 21 (Signals, Clean Architecture), API NestJS 11 (JWT + 2FA TOTP, relances CRON, Drizzle, PostgreSQL), stockage des documents sur Cloudflare R2.
+
+[Démo live](https://candidash.nedellec-julien.fr) | [Frontend](https://github.com/j-ned/ng-candidash-app) | [Backend](https://github.com/j-ned/nest-candidash-app)
 
 ![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
@@ -112,6 +131,7 @@ Un **CDI en Île-de-France**, dans une équipe produit **fintech, greentech ou i
 ## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-nedellec/)
+[![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/juliennedellec)
 [![Site web](https://img.shields.io/badge/nedellec--julien.fr-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nedellec-julien.fr)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nedellec-julien.fr)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nedjuldev)
