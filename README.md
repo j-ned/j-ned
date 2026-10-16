@@ -6,7 +6,7 @@
 
 **Je livre des applications Angular et NestJS jusqu'en production.**
 
-Disponible en freelance ([Malt](https://www.malt.fr/profile/juliennedellec)) · ouvert au CDI en Île-de-France
+Disponible en freelance ([Malt](https://www.malt.fr/profile/juliennedellec)) · Full-Remote
 
 ![Profil vu J-Ned](https://komarev.com/ghpvc/?username=j-ned&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)
