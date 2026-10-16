@@ -36,10 +36,9 @@ Cette double expérience me donne une vision systémique rare. Je ne code pas de
 
 ## Ce que je cherche
 
-**Disponible en freelance** et **ouvert au CDI en Île-de-France**.
+**Disponible en freelance** et **full-remote**.
 
-- **Freelance** : création d'applications Angular + NestJS, migration Angular (Signals, zoneless), audit et renfort ponctuel. En télétravail ou sur site dans l'Ouest parisien. → [Mon profil Malt](https://www.malt.fr/profile/juliennedellec)
-- **CDI** : une équipe produit **fintech, greentech ou industrial tech**, où la tech sert un impact positif et où la qualité technique compte. → [Écrivez-moi](mailto:contact@nedellec-julien.fr)
+- **Freelance** : création d'applications Angular + NestJS, migration Angular (Signals, zoneless), audit et renfort ponctuel. En télétravail. → [Mon profil Malt](https://www.malt.fr/profile/juliennedellec)
 
 ---
 
