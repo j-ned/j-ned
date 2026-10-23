@@ -2,136 +2,73 @@
 
 # Julien Nédellec
 
-### Développeur Full-Stack Angular · NestJS · TypeScript - Île-de-France
+### Tourneur CN le jour, développeur web le reste du temps
 
-**Je livre des applications Angular et NestJS jusqu'en production.**
+Angular, NestJS et auto-hébergement, pour le plaisir.
 
-Disponible en freelance ([Malt](https://www.malt.fr/profile/juliennedellec)) · Full-Remote
-
-![Profil vu J-Ned](https://komarev.com/ghpvc/?username=j-ned&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)
 
-*20 ans d'industrie, aujourd'hui tourneur CN en aéronautique de haute précision : je livre du logiciel avec la même exigence qu'une pièce critique.*
-
-[**Portfolio**](https://www.nedellec-julien.fr) | [**Malt**](https://www.malt.fr/profile/juliennedellec) | [**LinkedIn**](https://www.linkedin.com/in/julien-nedellec/) | [**Contact**](mailto:contact@nedellec-julien.fr)
+[**Mon site**](https://nedellec-julien.fr) · [**Le blog**](https://nedellec-julien.fr/blog) · [**LinkedIn**](https://www.linkedin.com/in/julien-nedellec/) · [**M'écrire**](mailto:contact@nedellec-julien.fr)
 
 </div>
 
 ---
 
-## Qui je suis
+## Salut, moi c'est Julien
 
-Je ne suis pas venu au développement web par hasard. En 20 ans d'industrie, de la métallurgie à l'usinage aéronautique de haute précision où je suis aujourd'hui tourneur CN, j'ai vu les outils numériques transformer un secteur entier, et j'ai compris que je pouvais avoir plus d'impact en les créant plutôt qu'en les utilisant.
+Chaudronnier, puis tourneur CN dans l'aéronautique : c'est toujours mon métier. Depuis 2025, je code aussi en full-stack, le soir et le week-end, parce que j'aime ça.
 
-Formé dans un environnement où l'erreur coûte cher, j'applique cette exigence à chaque ligne de code : pensée pour durer, comprise de bout en bout, de la requête SQL au déploiement en production. Je ne me contente jamais de faire fonctionner, je comprends pourquoi ça fonctionne.
+Ici, tu trouves ce que je construis avec Angular, NestJS et PostgreSQL, hébergé chez moi avec Docker. Sur [mon blog](https://nedellec-julien.fr/blog), je raconte ce que j'apprends en route, erreurs comprises.
 
-Cette double expérience me donne une vision systémique rare. Je ne code pas des features isolées, je conçois des solutions complètes qui résolvent de vrais problèmes métier.
+À l'atelier, une pièce hors tolérance ne part pas. Je garde la même règle pour le code : des tests, une accessibilité vérifiée en CI, et des choix que je sais expliquer.
 
-**3 ans** à concevoir, développer et déployer des applications Angular en production.
-
-## Ce que je fais
-
-- **Applications complètes** : conception, full-stack (Angular moderne avec signals, NestJS, PostgreSQL) et déploiement conteneurisé. Pas des démos, des systèmes qui tournent.
-- **Infrastructure** : auto-hébergement (VPS), CI/CD et orchestration Docker via Dokploy, jusqu'aux services en production. Un contrôle opérationnel total, du code au runtime.
-
-## Ce que je cherche
-
-**Disponible en freelance** et **full-remote**.
-
-- **Freelance** : création d'applications Angular + NestJS, migration Angular (Signals, zoneless), audit et renfort ponctuel. En télétravail. → [Mon profil Malt](https://www.malt.fr/profile/juliennedellec)
-
----
-
-## Stack et outils
+## Stack
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Projets phares
+## Ce que j'ai construit
 
-### [DashFlow](https://github.com/j-ned/ng-dashflow-app)
-**Budget familial et suivi médical du foyer, chiffrés de bout en bout côté client.** Angular 22 zoneless (Signals), API NestJS 11, PostgreSQL + Drizzle, AES-256-GCM + PBKDF2 : le serveur ne voit jamais les données en clair.
+### En service, je m'en sers vraiment
 
-[Démo live](https://dashflow.nedellec-julien.fr) | [Frontend](https://github.com/j-ned/ng-dashflow-app) | [Backend](https://github.com/j-ned/nest-dashflow-app)
+**[DashFlow](https://github.com/j-ned/ng-dashflow-app)** : le budget de la maison et le suivi médical de toute la famille dans une seule appli. Les données sont chiffrées dans le navigateur avant de partir (AES-256-GCM, PBKDF2) : le serveur ne les voit jamais en clair. Angular 22, NestJS 11, PostgreSQL et Drizzle.
+[Démo](https://dashflow.nedellec-julien.fr) · [Front](https://github.com/j-ned/ng-dashflow-app) · [API](https://github.com/j-ned/nest-dashflow-app)
 
-![Angular](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**[CandiDash](https://github.com/j-ned/ng-candidash-app)** : suivre ses candidatures sans tableur. Un tableau de bord, des relances automatiques par e-mail, les documents rangés avec chaque offre, et une double authentification (TOTP). Angular, NestJS 11, PostgreSQL, stockage sur Cloudflare R2.
+[Démo](https://candidash.nedellec-julien.fr) · [Front](https://github.com/j-ned/ng-candidash-app) · [API](https://github.com/j-ned/nest-candidash-app)
 
----
+**[Mon site](https://github.com/j-ned/ng-portfolio-app)** ([nedellec-julien.fr](https://nedellec-julien.fr)) : Angular 22 rendu côté serveur, Tailwind v4, une API NestJS à côté, auto-hébergé. C'est aussi mon terrain de jeu pour les nouveautés d'Angular (signals, zoneless, Signal Forms).
+[Front](https://github.com/j-ned/ng-portfolio-app) · [API](https://github.com/j-ned/nest-portfolio-app)
 
-### [Candidash](https://github.com/j-ned/ng-candidash-app)
-**Tableau de bord personnel pour piloter sa recherche d'emploi.** Angular 21 (Signals, Clean Architecture), API NestJS 11 (JWT + 2FA TOTP, relances CRON, Drizzle, PostgreSQL), stockage des documents sur Cloudflare R2.
+### Des démos, des entreprises inventées
 
-[Démo live](https://candidash.nedellec-julien.fr) | [Frontend](https://github.com/j-ned/ng-candidash-app) | [Backend](https://github.com/j-ned/nest-candidash-app)
+**[Le Vieux Comptoir](https://github.com/j-ned/le-vieu-comptoir)** : une brasserie parisienne inventée de toutes pièces. HTML statique presque sans JavaScript, Astro et Tailwind.
+[Site](https://j-ned.github.io/le-vieu-comptoir/)
 
-![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**[Coaching Life](https://github.com/j-ned/coaching-life)** : le site d'un cabinet de coaching imaginaire, avec des pages prérendues pour le référencement et une prise de rendez-vous en ligne. Angular 22 en SSR.
+[Démo](https://coaching-life.nedellec-julien.fr)
 
----
+### Des petits outils
 
-### [Coaching Life](https://github.com/j-ned/coaching-life)
-**Plateforme de coaching professionnel et personnel.** Vitrine, réservation en ligne et dashboard analytics pour coachs indépendants, sans dépendre de Calendly, Squarespace et Stripe combinés. Angular 22 en SSR, authentification passwordless, backend Hono.
+**[LabelSync Pro](https://github.com/j-ned/labelsync-pro)** : un fichier JSON définit les labels GitHub, un workflow planifié les applique à l'identique sur tous mes dépôts.
 
-[Démo live](https://coaching-life.nedellec-julien.fr) | [Repo](https://github.com/j-ned/coaching-life)
-
-![Angular](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**[GitPush Auto](https://github.com/j-ned/gitpush-auto)** : un script Bash interactif qui guide un flux Git complet, de la branche au merge, avec garde-fous et mode dry-run.
 
 ---
-
-### [Le Vieux Comptoir](https://github.com/j-ned/le-vieu-comptoir)
-**Site vitrine premium d'une brasserie parisienne fondée en 1892.** Zéro JavaScript externe, Lighthouse 100 sur les quatre scores. La preuve qu'une vitrine haut de gamme n'a pas besoin d'un framework client lourd.
-
-[Site live](https://j-ned.github.io/le-vieu-comptoir/) | [Repo](https://github.com/j-ned/le-vieu-comptoir)
-
-![Astro](https://img.shields.io/badge/Astro_7-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-### [Portfolio](https://github.com/j-ned/ng-portfolio-app)
-**Mon site personnel** ([nedellec-julien.fr](https://www.nedellec-julien.fr)). Angular 22 en SSR, architecture clean en 3 couches (domain, infra, application), API NestJS dédiée. Sert aussi de terrain de jeu pour les dernières pratiques Angular (signals, zoneless, httpResource).
-
-[Site live](https://www.nedellec-julien.fr) | [Frontend](https://github.com/j-ned/ng-portfolio-app) | [Backend](https://github.com/j-ned/nest-portfolio-app)
-
-![Angular](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-## Stats GitHub
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=j-ned&theme=default&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=j-ned&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## Me contacter
+Une question sur un article, un projet, ou juste envie d'échanger ? [Écris-moi](mailto:contact@nedellec-julien.fr) ou passe par [mon site](https://nedellec-julien.fr).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-nedellec/)
-[![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/juliennedellec)
-[![Site web](https://img.shields.io/badge/nedellec--julien.fr-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nedellec-julien.fr)
-[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nedellec-julien.fr)
+[![Site](https://img.shields.io/badge/nedellec--julien.fr-ed6e12?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nedellec-julien.fr)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nedjuldev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nedellec_julien)
+
+</div>
