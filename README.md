@@ -6,7 +6,7 @@
 
 Angular, NestJS et auto-hébergement, pour le plaisir.
 
-![GitQuest Winner](https://img.shields.io/badge/GitQuest%20Winner-1st%20Place-ffd700?style=for-the-badge)
+![Tourneur CN & Développeur Angular](https://img.shields.io/badge/TourneurCN-D%C3%A9veloppeur_Angular-blue)
 
 [**Mon site**](https://nedellec-julien.fr) · [**Le blog**](https://nedellec-julien.fr/blog) · [**LinkedIn**](https://www.linkedin.com/in/julien-nedellec/) · [**M'écrire**](mailto:contact@nedellec-julien.fr)
 
